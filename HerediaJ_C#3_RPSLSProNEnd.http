@@ -1,0 +1,6 @@
+@HerediaJ_C_3_RPSLSProNEnd_HostAddress = http://localhost:5292
+
+GET {{HerediaJ_C_3_RPSLSProNEnd_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
