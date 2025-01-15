@@ -10,8 +10,20 @@ namespace HerediaJ_C_3_RPSLSProNEnd.Services
         
         Random rng = new Random();
 
-        public List<string> handPlay = new List<string>();
+        public List<string> handPlay = new List<string>{
+             "SCISSORS",
+             "ROCK",
+              "PAPER",
+               "LIZARD",
+                "SPROCK"
+        };
         
+      
+        
+        public string CPUChoice()
+        {
+             return handPlay[rng.Next(handPlay.Count)];
+        }
 
 
     }

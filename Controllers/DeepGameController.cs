@@ -22,7 +22,7 @@ namespace HerediaJ_C_3_RPSLSProNEnd.Controllers
         [Route("ThrowHand")]
         public string CPUChoice()
         {
-            return null;
+            return _deepGameService.CPUChoice();
         }
 
     }
