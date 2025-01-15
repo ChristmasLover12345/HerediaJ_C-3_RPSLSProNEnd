@@ -15,7 +15,7 @@ namespace HerediaJ_C_3_RPSLSProNEnd.Services
              "ROCK",
               "PAPER",
                "LIZARD",
-                "SPROCK"
+                "SPOCK"
         };
         
       
