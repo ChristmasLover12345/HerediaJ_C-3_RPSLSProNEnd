@@ -6,4 +6,5 @@
 
  // Made an API that gives back a random hand when promted
 
-// peer reviewed by: 
+// peer reviewed by: Andrew Sayasing
+Yep I can see the outcomes on the website. Nice!
